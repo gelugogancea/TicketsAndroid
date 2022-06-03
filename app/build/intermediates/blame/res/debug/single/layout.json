@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Work\\AndroidSamples\\TicketEurolines\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Work\\AndroidSamples\\TicketEurolines\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Work\\AndroidSamples\\TicketEurolines\\app\\build\\intermediates\\res\\merged\\debug\\layout\\text_color_selector.xml",
+        "source": "D:\\Work\\AndroidSamples\\TicketEurolines\\app\\src\\main\\res\\layout\\text_color_selector.xml"
+    },
+    {
+        "merged": "D:\\Work\\AndroidSamples\\TicketEurolines\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_pdf.xml",
+        "source": "D:\\Work\\AndroidSamples\\TicketEurolines\\app\\src\\main\\res\\layout\\activity_my_pdf.xml"
+    },
+    {
+        "merged": "D:\\Work\\AndroidSamples\\TicketEurolines\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Work\\AndroidSamples\\TicketEurolines\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Work\\AndroidSamples\\TicketEurolines\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_pdfprint.xml",
+        "source": "D:\\Work\\AndroidSamples\\TicketEurolines\\app\\src\\main\\res\\layout\\activity_my_pdfprint.xml"
+    },
+    {
+        "merged": "D:\\Work\\AndroidSamples\\TicketEurolines\\app\\build\\intermediates\\res\\merged\\debug\\layout\\discovery.xml",
+        "source": "D:\\Work\\AndroidSamples\\TicketEurolines\\app\\src\\main\\res\\layout\\discovery.xml"
+    },
+    {
+        "merged": "D:\\Work\\AndroidSamples\\TicketEurolines\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "D:\\Work\\AndroidSamples\\TicketEurolines\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\Work\\AndroidSamples\\TicketEurolines\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_at.xml",
+        "source": "D:\\Work\\AndroidSamples\\TicketEurolines\\app\\src\\main\\res\\layout\\list_at.xml"
+    }
+]
